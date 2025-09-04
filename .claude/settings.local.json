@@ -7,7 +7,8 @@
       "Bash(dir:*)",
       "Bash(conda create:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
