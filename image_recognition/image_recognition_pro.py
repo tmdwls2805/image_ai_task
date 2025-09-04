@@ -579,7 +579,7 @@ if __name__ == "__main__":
     
     # 테스트할 이미지 경로
     test_images = [
-        "C:/develop/vision-test/file/image1.jpg",
+        "C:/develop/vision-test/file/soccer.png",
         # "C:/develop/vision-test/file/blur_image.webp",
         # "C:/develop/vision-test/file/bg_image.webp",
         # "C:/develop/vision-test/file/old_image.webp"
