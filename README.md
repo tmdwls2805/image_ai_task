@@ -84,18 +84,18 @@ detector = cv2.FaceDetectorYN.create(
 *여러 사람이 있는 이미지에서의 얼굴 검출*
 
 #### Haar Cascade 결과
-![Haar Cascade Detection](file/detection_haar.jpg)
+![Haar Cascade Detection]
 - 검출된 얼굴: 정면 얼굴 위주로 검출
 - 처리 시간: ~50ms
 
 #### DNN 기반 검출 결과  
-![DNN Detection](file/detection_dnn.jpg)
+![DNN Detection]
 - 검출된 얼굴: 다양한 각도의 얼굴 검출
 - 신뢰도: 95% 이상
 - 처리 시간: ~200ms
 
 #### YuNet 검출 결과
-![YuNet Detection](file/detection_yunet.jpg)
+![YuNet Detection]
 - 검출된 얼굴: 작은 얼굴까지 정확히 검출
 - 랜드마크: 5개 얼굴 특징점 제공
 - 처리 시간: ~100ms
