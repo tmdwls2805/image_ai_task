@@ -77,6 +77,12 @@ detector = cv2.FaceDetectorYN.create(
 ### 테스트 이미지
 원본 이미지에서 얼굴을 검출한 결과입니다:
 
+![얼굴 검출 결과](file/result.png)
+*다양한 얼굴 검출 알고리즘 적용 결과*
+
+![축구 이미지 얼굴 검출](file/soccer.png)
+*여러 사람이 있는 이미지에서의 얼굴 검출*
+
 #### Haar Cascade 결과
 ![Haar Cascade Detection](file/detection_haar.jpg)
 - 검출된 얼굴: 정면 얼굴 위주로 검출
